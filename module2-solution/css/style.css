@@ -25,14 +25,19 @@ h1
 .row
 {
 	width: 100%;
+	position: relative;
 
+}
+.row > div
+{
+
+    padding: 15px;
 }
 section
 {
 	position: relative;
 	background-color: #ECECE0;
-	width: 95%;
-	margin:10px auto 20px auto;
+	left:0;
 
 }
 h2
@@ -55,8 +60,6 @@ p
 	height: 180px;
 	overflow: hidden;
 	font-weight: 400;
-
-
 
 }
 #chickenP h2
