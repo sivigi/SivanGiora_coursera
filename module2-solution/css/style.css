@@ -27,13 +27,15 @@ h1
 	width: 100%;
 
 }
+.row > div
+{
+
+    padding: 15px;
+}
 section
 {
 	position: relative;
 	background-color: #ECECE0;
-	width: 95%;
-	margin:10px auto 20px auto;
-
 }
 h2
 {
