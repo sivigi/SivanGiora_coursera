@@ -1,0 +1,76 @@
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	background-image: url('../images/food.png')
+}
+#myBrand
+{
+	 padding-top: 10px;
+}
+#myBrand h1
+{
+  font-family: 'Lobster', cursive;
+  color:#F6BA4D;
+  font-size: 2em;
+  text-shadow: 1px 1px 1px #BBB;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+#myBrand a
+{
+	text-decoration: none;
+}
+#myBrand a:hover{
+
+	color: #F6BA4D;
+}
+#header-nav
+{
+	background-color: rgb(246, 226, 186);
+	min-height: 60px;
+}
+#nav-list>li>a
+{
+	padding:0px;
+	margin: 0;
+	color: black;
+	line-height: 10px;
+}
+#nav-button{
+ 	border: 1px solid #F6BA4D;
+ 	background-color: 
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #F6BA4D;
+}
+#nav-list hr{
+	width: 96%;
+	margin: 10px;
+
+}
+.myP
+{
+padding: 10px;
+
+}
+.myP > section
+{
+
+	background-color:#FFFFFF;
+	padding: 10px;
+}
+h2
+{
+	margin-top: 80px;
+    margin-bottom: 30px;
+}
+.myP>section>h3
+{
+	margin-top:0px;
+}
+section h3
+{
+
+	margin-top: 10px;
+}

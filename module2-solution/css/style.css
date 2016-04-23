@@ -33,12 +33,20 @@ h1
 
     padding: 15px;
 }
+.row > div
+{
+
+    padding: 15px;
+}
 section
 {
 	position: relative;
 	background-color: #ECECE0;
+<<<<<<< HEAD
 	left:0;
 
+=======
+>>>>>>> ba1bcb4f631edc92735d8ffe5473e7ab896ecc78
 }
 h2
 {
